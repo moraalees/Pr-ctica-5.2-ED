@@ -1,6 +1,6 @@
 # Practica-5.2-ED
 
-![Descripción](src/Practica5.2.png)
+![Descripción](src/Practica 5.2.png)
 
 *a) Una breve lista de los conceptos que te has encontrado en los diagramas UML que se asemejan a los conceptos de programación orientada a objetos. Por ejemplo: Clases: Gestor Pedidos*
 
