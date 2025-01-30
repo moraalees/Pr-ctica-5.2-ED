@@ -1,5 +1,7 @@
 # Practica-5.2-ED
 
+**'La imagen está nombrada en el repositorio como Practica 5.2.png, y no la pongo aquí porque no puedo'**
+
 *a) Una breve lista de los conceptos que te has encontrado en los diagramas UML que se asemejan a los conceptos de programación orientada a objetos. Por ejemplo: Clases: Gestor Pedidos*
 
 Como dice el enunciado, lo primero que te encuentras son las clases y sus atributos, como la fecha y el ID en Pedido o el DNI y el nombre en Cliente. Estas son prácticamente iguales a las de la programación orientada a objetos (POO).
