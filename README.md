@@ -13,4 +13,4 @@ Solo he usado una herramienta a la hora de corregir el ejercicio con alguna refe
 
 
 *c) Una explicación sobre la conversión del diagrama UML al código.*
-Todas las clases las he pasado tal cual con todos sus atributos y métodos
+Todas las clases las he pasado tal cual con todos sus atributos y métodos. El esquema me ha ayudado bastante a la hora de la creación ya que he podido estar fijandome en todos los atributos de las respectivas clases. He creado las mismas clases que enseñaba el esquema y en el programa principal he probado todo tipo de método y clase creando primero un cliente. Seguidamente he creado dos productos y los he agregado a un pedido. Después, he actualizado el stock de un producto y por último he comprobado las clases Pago y tarjeta realizando un pago.
