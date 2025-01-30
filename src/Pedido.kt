@@ -6,6 +6,7 @@ class Pedido(
     val id: Int,
     val fecha: Date,
     val estado: String,
+    val cliente: Cliente,
     val productos: MutableMap<Producto, Int> = mutableMapOf()) {
 
     fun calcularTotal(): Double {
@@ -15,4 +16,14 @@ class Pedido(
         }
         return total
     }
+
+    fun agregarProducto(producto: Producto, cantidad: Int){
+        if (producto.stock >= cantidad) {
+            productos[producto] = productos.getOrDefault(producto, 0) + cantidad
+            println("Producto agregado al pedido.")
+        } else {
+            println("No hay suficiente stock para agregar $cantidad unidades de ${producto.nombre}")
+        }
+    }
+
 }

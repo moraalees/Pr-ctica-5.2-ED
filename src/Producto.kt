@@ -14,7 +14,7 @@ class Producto(
             return false
         } else {
             stock = cantidad
-            println("Stock actualizado.")
+            println("Stock actualizado de $nombre a $cantidad.")
             return true
         }
     }
