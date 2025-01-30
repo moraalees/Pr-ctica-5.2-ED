@@ -1,1 +1,1 @@
-# Pr-ctica-5.2-ED
+# Practica-5.2-ED
